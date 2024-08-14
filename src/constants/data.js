@@ -2,28 +2,28 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Easy Fride Rice',
-    price: '$56',
+    title: 'Special Fride Rice',
+    price: '$7',
     tags: 'Chiken | Beef | Egg',
   },
   {
     title: 'Fried Rice',
-    price: '$59',
+    price: '$4',
     tags: 'Chiken | Beef | Egg',
   },
   {
     title: 'Ham and cheese roll - up',
-    price: '$44',
+    price: '$6',
     tags: 'Chiken | Beef | Egg',
   },
   {
     title: 'Burger',
-    price: '$31',
+    price: '$5',
     tags: 'Chiken | Beef | Egg',
   },
   {
     title: 'BBQ',
-    price: '$26',
+    price: '$12',
     tags: 'Chiken | Beef | Egg',
   },
 ];
@@ -31,27 +31,27 @@ const wines = [
 const cocktails = [
   {
     title: 'Kottu',
-    price: '$20',
+    price: '$7',
     tags: 'Chiken | Beef | Egg',
   },
   {
     title: 'Grilled Rice',
-    price: '$31',
+    price: '$12',
     tags: 'Chiken | Beef',
   },
   {
     title: "Pizza",
-    price: '$16',
+    price: '$8',
     tags: 'Chiken | Beef',
   },
   {
     title: 'Submarine',
-    price: '$31',
+    price: '$5',
     tags: 'Chiken | Beef',
   },
   {
     title: 'Burger',
-    price: '$10',
+    price: '$5',
     tags: 'Chiken | Beef | Egg',
   },
 ];
